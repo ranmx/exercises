@@ -1,4 +1,4 @@
-package exercise.ran;
+package exercise.ran.a1TwoSum;
 /**
  * Created by ranmx on 2018/3/29.
  */

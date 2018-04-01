@@ -1,4 +1,4 @@
-package exercise.ran;
+package exercise.ran.a1TwoSum;
 
 import org.junit.Test;
 
